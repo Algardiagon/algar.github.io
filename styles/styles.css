@@ -28,7 +28,7 @@ body {
 
 @media (max-width: 600px) {
     .wrapper {
-        padding: 0 15px;
+        padding: 20px;
     }
 }
 
