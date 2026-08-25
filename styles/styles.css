@@ -24,13 +24,8 @@ body {
     margin: auto;
     margin-bottom: 1cm;
 	box-sizing: border-box;
-}
-
-@media (max-width: 700px) {
-    .wrapper {
-         padding-left: 20px;
-        padding-right: 20px;
-    }
+	padding-left: 20px;
+    padding-right: 20px;
 }
 
 .wrappero {
