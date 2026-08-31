@@ -8,7 +8,7 @@ body {
     flex-direction: column;
 }
 
-.hwrapper {
+.htaco {
     width: 100%;
     max-width: 800px;
     margin: auto;
@@ -16,24 +16,10 @@ body {
     text-align:center
 }
 
-.wrapper {
+.taco {
     width: 100%;
     max-width: 1000px;
     margin: auto;
-    margin-bottom: 1cm;
-}
-
-
-
-
-
-
-.wrapper.flex {
-	 width: 80%;
-    max-width: 900px;
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
     margin-bottom: 1cm;
 }
 
