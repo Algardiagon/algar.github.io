@@ -1,11 +1,7 @@
-/* Body */
-
 body {
-    margin: 0 auto;
+	 margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    display: flex;
-    flex-direction: column;
     background-color: #082419;
     color: white;
 }
@@ -13,29 +9,25 @@ body {
 .htaco {
     width: 100%;
     max-width: 1000px;
-    margin: auto;
-    vertical-align: middle;
-    text-align:center
+	margin: 0 auto;
+    text-align: center
 }
 
 .taco {
     width: 100%;
     max-width: 1000px;
-    margin: auto;
-    margin-bottom: 1cm;
-	box-sizing: border-box;
-	padding-left: 20px;
-    padding-right: 20px;
+    margin: 0 auto 1cm;
+    box-sizing: border-box;
+    padding: 0 20px;
 }
 
 .itaco {
-	 width: 80%;
+ 	width: 80%;
     max-width: 900px;
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 1cm;
+    margin: 0 auto 1cm;
 }
+
+/* Links */
 
 a {
     text-decoration: none;
@@ -72,14 +64,11 @@ header {
 
 /* Main */
 
-section {
-    /* border-bottom: 2px solid #E2E2B6; */
-}
+/* section { 
+}*/
 
 figure {
-    /* margin-left: 0px; */
-    margin-left: auto;
-    margin-right: auto;
+    margin: 1em auto;
 }
 
 img.picture ~ figcaption {
