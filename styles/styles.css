@@ -10,7 +10,7 @@ body {
     color: white;
 }
 
-.hwrapper {
+.htaco {
     width: 100%;
     max-width: 1000px;
     margin: auto;
@@ -18,7 +18,7 @@ body {
     text-align:center
 }
 
-.wrapper {
+.taco {
     width: 100%;
     max-width: 1000px;
     margin: auto;
@@ -28,16 +28,7 @@ body {
     padding-right: 20px;
 }
 
-.wrappero {
-    width: 100%;
-    max-width: 1000px;
-    margin: auto;
-    column-count: 2;
-  column-gap: 40px;
-  margin-bottom: 5cm;
-}
-
-.wrapper.flex {
+.itaco {
 	 width: 80%;
     max-width: 900px;
     margin: auto;
