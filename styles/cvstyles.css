@@ -79,7 +79,7 @@ figure {
 }
 
 .scvlist {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     display: grid;
     grid-template-columns: 8rem 1fr;
     column-gap: 1rem;
