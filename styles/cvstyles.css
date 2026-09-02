@@ -63,7 +63,7 @@ figure {
 }
 
 .cvlist {
-    font-size: 0.9rem;
+    font-size: 0.7rem;
     display: grid;
     grid-template-columns: 7rem 1fr;
     column-gap: 1rem;
