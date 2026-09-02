@@ -21,6 +21,12 @@ body {
     margin-bottom: 1cm;
 }
 
+.hsec {
+    margin-top: 1.2rem;
+    color: #111;
+    text-decoration: underline;
+}
+
 a {
     text-decoration: none;
     transition: color 0.5s;
@@ -54,6 +60,21 @@ header {
 
 figure {
    margin: 1em auto;
+}
+
+.cv-list {
+    display: grid;
+    grid-template-columns: 7rem 1fr;
+    column-gap: 1rem;
+    row-gap: 0.35rem;
+}
+
+.cv-list dt {
+    font-weight: 600;
+}
+
+.cv-list dd {
+    margin: 0;
 }
 
 
