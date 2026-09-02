@@ -110,6 +110,22 @@ figure {
     margin: 0;
 }
 
+.pcvlist {
+    font-size: 0.8rem;
+    display: grid;
+    grid-template-columns: 7rem 1fr;
+    column-gap: 0.7rem;
+    row-gap: 0.35rem;
+}
+
+.pcvlist dt {
+    font-weight: 600;
+}
+
+.pcvlist dd {
+    margin: 0;
+}
+
 
 
 
