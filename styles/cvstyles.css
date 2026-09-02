@@ -65,7 +65,7 @@ figure {
 .cvlist {
     font-size: 0.9rem;
     display: grid;
-    grid-template-columns: 8rem 1fr;
+    grid-template-columns: 7rem 1fr;
     column-gap: 1rem;
     row-gap: 0.35rem;
 }
@@ -81,7 +81,7 @@ figure {
 .scvlist {
     font-size: 0.8rem;
     display: grid;
-    grid-template-columns: 8rem 1fr;
+    grid-template-columns: 7rem 1fr;
     column-gap: 1rem;
     row-gap: 0.35rem;
 }
