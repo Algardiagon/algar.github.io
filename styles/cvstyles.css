@@ -41,13 +41,13 @@ body {
 }
 
 a {
-    color: #0066CC;
+    color: #013f7d;
     text-decoration: none;
     transition: color 0.5s;
 }
 
 a:hover {
-    color: #0057B8;
+    color: #014991;
 }
 
 /* Navigation */
