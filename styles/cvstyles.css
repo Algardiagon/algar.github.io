@@ -1,5 +1,5 @@
 :root {
-    --col: #1D8F62;
+    --col: #1F8A3B;
 }
 
 body {
@@ -25,19 +25,19 @@ body {
     margin-bottom: 1cm;
 }
 
-.hsec {
+/* .hsec {
     margin-top: 1.2rem;
     color: #111;
     text-decoration: underline;
     text-decoration-color: var(--col);
-}
+}*/
 
-/*.hsec {
+.hsec {
     margin-top: 1.2rem;
     color: #111;
-    border-bottom: 2px solid var(--col);
+    border-bottom: 3px solid var(--col);
     padding-bottom: 3px;
-}*/
+}
 
 a {
     text-decoration: none;
