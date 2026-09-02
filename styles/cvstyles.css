@@ -111,7 +111,7 @@ figure {
 }
 
 .pcvlist {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     display: grid;
     grid-template-columns: 7rem 1fr;
     column-gap: 0.7rem;
