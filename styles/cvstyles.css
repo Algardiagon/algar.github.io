@@ -25,6 +25,7 @@ body {
     margin-top: 1.2rem;
     color: #111;
     text-decoration: underline;
+    text-decoration-color: cyan;
 }
 
 a {
