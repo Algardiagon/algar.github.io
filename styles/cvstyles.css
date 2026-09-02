@@ -62,7 +62,7 @@ figure {
    margin: 1em auto;
 }
 
-.cv-list {
+.cvlist {
     font-size: 0.9rem;
     display: grid;
     grid-template-columns: 7rem 1fr;
@@ -70,11 +70,11 @@ figure {
     row-gap: 0.35rem;
 }
 
-.cv-list dt {
+.cvlist dt {
     font-weight: 600;
 }
 
-.cv-list dd {
+.cvlist dd {
     margin: 0;
 }
 
