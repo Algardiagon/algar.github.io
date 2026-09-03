@@ -41,6 +41,14 @@ body {
     width: 25%;
 }
 
+.bhsec {
+    margin-top: 2.5rem;
+    color: #111;
+    border-bottom: 3px solid var(--col);
+    padding-bottom: 5px;
+    text-align: center
+}
+
 a {
     color: #013f7d;
     text-decoration: none;
