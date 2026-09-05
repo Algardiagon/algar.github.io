@@ -45,7 +45,7 @@ body {
     margin-top: 2.5rem;
     margin-bottom: 1.2rem;
     color: #111;
-    border-bottom: 3px solid var(--col);
+    border-bottom: 3px solid var(#cc0008);
     padding-bottom: 5px;
     text-align: center
 }
