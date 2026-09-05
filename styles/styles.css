@@ -71,6 +71,12 @@ figure {
     margin: 1em auto;
 }
 
+.picture {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 img.picture ~ figcaption {
     text-align: center;
 }
