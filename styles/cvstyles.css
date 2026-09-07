@@ -26,7 +26,6 @@ body {
     max-width: 1000px;
     margin: auto;
     margin-bottom: 1cm;
-    padding: 0 13px;
 }
 
 /* .hsec {
@@ -147,11 +146,7 @@ figure {
         width: 100%;
         max-width: 100%;
         padding: 0;
-    }
-
-    .itaco {
-        width: 100%;
-        max-width: 100%;
+        padding: 0 13px;
     }
 
     html,
