@@ -56,8 +56,6 @@ a {
     color: var(--lcol);
     text-decoration: none;
     transition: color 0.5s;
-    overflow-wrap: anywhere;
-    word-break: break-word;
 }
 
 a:hover {
@@ -126,8 +124,6 @@ figure {
 .scvlist dd,
 .pcvlist dd {
     margin: 0;
-    overflow-wrap: anywhere;
-    word-break: break-word;
 }
 
 
