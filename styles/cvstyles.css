@@ -56,6 +56,8 @@ a {
     color: var(--lcol);
     text-decoration: none;
     transition: color 0.5s;
+    overflow-wrap: anywhere;
+    word-break: break-word;
 }
 
 a:hover {
@@ -97,13 +99,6 @@ figure {
     row-gap: 0.35rem;
 }
 
-.cvlist dt {
-    font-weight: 600;
-}
-
-.cvlist dd {
-    margin: 0;
-}
 
 .scvlist {
     font-size: 0.8rem;
@@ -113,12 +108,9 @@ figure {
     row-gap: 0.35rem;
 }
 
-.scvlist dt {
+.cvlist dt,
+.pcvlist dt {
     font-weight: 600;
-}
-
-.scvlist dd {
-    margin: 0;
 }
 
 .pcvlist {
@@ -129,13 +121,15 @@ figure {
     row-gap: 0.35rem;
 }
 
-.pcvlist dt {
-    font-weight: 600;
-}
 
+.cvlist dd,
+.scvlist dd,
 .pcvlist dd {
     margin: 0;
+    overflow-wrap: anywhere;
+    word-break: break-word;
 }
+
 
 .mob {
   display: none;
