@@ -145,8 +145,7 @@ figure {
     .taco {
         width: 100%;
         max-width: 100%;
-        padding: 0;
-        padding: 0 13px;
+        padding: 0 10px;
     }
 
     html,
