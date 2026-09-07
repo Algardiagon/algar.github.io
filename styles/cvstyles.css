@@ -133,19 +133,12 @@ figure {
 
 @media (max-width: 700px) {
     .taco {
-        width: 100%;
-        max-width: 100%;
         padding: 0 13px;
     }
 
-    html,
-    body {
-        overflow-x: hidden;
-    }
-    
-  .mob {
+    .mob {
     display: block;
-  }
+    }
 }
 
 
