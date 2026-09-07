@@ -81,6 +81,16 @@ img.picture ~ figcaption {
     text-align: center;
 }
 
+.mob {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .mob {
+    display: block;
+  }
+}
+
 
 
 
