@@ -24,7 +24,7 @@ body {
 .taco {
     width: 100%;
     max-width: 1000px;
-    margin: 0 auto;
+    margin: auto;
     margin-bottom: 1cm;
 }
 
