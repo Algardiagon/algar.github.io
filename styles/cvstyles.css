@@ -134,7 +134,7 @@ figure {
 @media (max-width: 600px) {
     .taco {
         width: calc(100% - 20px);
-        padding: 0 13px;
+        padding: 0 10px;
     }
 
     .mob {
