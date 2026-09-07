@@ -135,7 +135,7 @@ figure {
   display: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 700px) {
     .taco {
         width: 100%;
         max-width: 100%;
