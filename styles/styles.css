@@ -85,6 +85,12 @@ img.picture ~ figcaption {
   display: none;
 }
 
+.page-end {
+    margin-top: 200px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
 @media (max-width: 768px) {
   .mob {
     display: block;
