@@ -13,6 +13,21 @@ body {
     color: white;
 }
 
+header h1 a {
+    padding: 0;
+}
+
+header a:hover {
+    color: #a418db;
+}
+
+header {
+    padding: 15px;
+    background-color: #111111;
+    border-bottom: 3px solid var(--bcol);
+}
+}
+
 .hsec {
     margin-top: 2rem;
     border-bottom: 3px solid var(--bcol);
@@ -55,34 +70,12 @@ a:hover{
     color: #E2E2B6;
 }
 
-/* Navigation */
 
 nav {
     display: flex;
     gap: 10px;
 }
 
-/* Header */
-
-header h1 a {
-    padding: 0;
-}
-
-header a:hover {
-    color: #a418db;
-}
-
-header {
-    padding: 15px;
-    background-color: #111111;
-    border-bottom: 3px solid var(--bcol);
-}
-}
-
-/* Main */
-
-/* section { 
-}*/
 
 figure {
     margin: 1em auto;
