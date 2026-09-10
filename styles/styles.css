@@ -1,3 +1,10 @@
+:root {
+    --col: #1F8A3B;
+    --bcol: #a80000;
+    --lcol: #030191;
+}
+
+
 body {
 	 margin: 0;
     font-family: Arial, Helvetica, sans-serif;
@@ -11,6 +18,13 @@ body {
     max-width: 1000px;
 	margin: 0 auto;
     text-align: center
+}
+
+.hsec {
+    margin-top: 1.2rem;
+    border-bottom: 3px solid var(--bcol);
+    padding-bottom: 3px;
+    width: 38%;
 }
 
 .taco {
