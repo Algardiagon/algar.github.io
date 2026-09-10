@@ -13,13 +13,6 @@ body {
     color: white;
 }
 
-.htaco {
-    width: 100%;
-    max-width: 1000px;
-	margin: 0 auto;
-    text-align: center
-}
-
 .hsec {
     margin-top: 1.2rem;
     border-bottom: 3px solid var(--bcol);
@@ -33,6 +26,15 @@ body {
     margin: 0 auto 1cm;
     box-sizing: border-box;
     padding: 0 13px;
+}
+
+.htaco {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto 1cm;
+    box-sizing: border-box;
+    padding: 0 13px;
+    text-align: center
 }
 
 .itaco {
