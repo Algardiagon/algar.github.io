@@ -87,6 +87,13 @@ figure {
     display: block;
 }
 
+.propic {
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
 img.picture ~ figcaption {
     text-align: center;
 }
