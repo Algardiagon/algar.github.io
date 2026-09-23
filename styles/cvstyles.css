@@ -28,6 +28,13 @@ body {
     margin-bottom: 1cm;
 }
 
+.taconp {
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    margin-bottom: 1cm;
+}
+
 /* .hsec {
     margin-top: 1.2rem;
     color: #111;
