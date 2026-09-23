@@ -149,6 +149,10 @@ figure {
         width: calc(100% - 16px);
         padding: 0 8px;
     }
+    .taconp {
+        width: calc(100% - 16px);
+        padding: 0 8px;
+    }
 
     .mob {
     display: block;
